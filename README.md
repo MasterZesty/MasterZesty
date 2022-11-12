@@ -1,5 +1,3 @@
-![Krishna Nimbalkar Banner](krishna.png)
-
 <img alt="Night Coding" src="Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Krishna</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Krishna -->
