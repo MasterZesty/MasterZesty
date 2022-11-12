@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;My area of interest are Front end Web Development, python programming, Deep learning, embedded systems.\
+🌱 &nbsp;My area of interest are Full Stack Web Development, Python programming , Data engineering.\
 ✉️ &nbsp;You can shoot me an email at kgn272000@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume]() for more details about me. I'm open to feedback and suggestions!
 
@@ -32,12 +32,11 @@
 
 ### 🤝🏻 &nbsp;Profile Links
 
-
 <a href="https://leetcode.com/KrishnaNimbalkar/"><img src="https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=LeetCode"/></a>
-<a href="https://www.codechef.com/users/kriscode007"><img src="https://img.shields.io/badge/CodeChef-05122A?style=flat&logo=CodeChef"/></a>
-<a href="https://codeforces.com/profile/Krishna_Nimbalkar"><img src="https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=Codeforces"/></a>
 <a href="https://www.hackerrank.com/kgn272000"><img src="https://img.shields.io/badge/-Hackerrank-05122A?style=flat&logo=HackerRank"/></a>
-<a href="https://www.hackerearth.com/@kgn272000"><img src="https://img.shields.io/badge/HackerEarth-05122A?&style=flat&logo=HackerEarth"/></a>
+<!--- <a href="https://www.codechef.com/users/kriscode007"><img src="https://img.shields.io/badge/CodeChef-05122A?style=flat&logo=CodeChef"/></a> -->
+<!--- <a href="https://codeforces.com/profile/Krishna_Nimbalkar"><img src="https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=Codeforces"/></a> -->
+<!--- <a href="https://www.hackerearth.com/@kgn272000"><img src="https://img.shields.io/badge/HackerEarth-05122A?&style=flat&logo=HackerEarth"/></a> -->
 
 
 ### 🤝🏻 &nbsp;Connect with Me
