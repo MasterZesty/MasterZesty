@@ -12,9 +12,15 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat&logo=google-cloud&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat&logo=google-cloud&logoColor=white)&nbsp;
+![Google BigQuery](https://img.shields.io/badge/Google%20Cloud%20BigQuery-05122A?style=flat&logo=google-bigquery&logoColor=white)&nbsp;
+![Google Cloud Composer](https://img.shields.io/badge/Google%20Cloud%20Composer-05122A?style=flat&logo=google-cloud-composer&logoColor=white)&nbsp;
+![Google Cloud SQL](https://img.shields.io/badge/Google%20Cloud%20SQL-05122A?style=flat&logo=google-cloud-sql&logoColor=white)&nbsp;
+![Google Cloud Functions](https://img.shields.io/badge/Google%20Cloud%20Functions-05122A?style=flat&logo=google-cloud-funtions&logoColor=white)&nbsp;
+
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=green)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -23,6 +29,7 @@
 
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Flask](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
